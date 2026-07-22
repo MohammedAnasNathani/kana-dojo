@@ -1918,5 +1918,11 @@
     "fact": "'Mame' (豆) can mean both 'bean' and 'diligent'—so bean-related gifts sometimes imply good health and hard work.",
     "issued": false,
     "completed": false
+  },
+  {
+    "id": 321,
+    "fact": "Japan has a concept called 'shoganai' (しょうがない) - roughly 'it cannot be helped' - which is often cited as a cultural way of accepting things one cannot change, though its everyday use is more nuanced.",
+    "issued": false,
+    "completed": false
   }
 ]
