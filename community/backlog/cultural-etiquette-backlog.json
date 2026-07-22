@@ -1087,5 +1087,14 @@
     "id": 121,
     "issued": false,
     "completed": true
+  },
+  {
+    "situation": "食事中の箸 1",
+    "do": "箸を正しく持ち、渡し箸や刺し箸を避ける",
+    "dont": "箸を突き立ててご飯に刺す（立箸）",
+    "note": "葬式を連想させるため避ける。",
+    "id": 122,
+    "issued": false,
+    "completed": false
   }
 ]
